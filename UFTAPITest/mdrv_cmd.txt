@@ -1,0 +1,1 @@
+-usr "C:\Users\demo\UFT-Main\UFTAPITest\UFTAPITest.usr" -msg_suffix_enable 0 -out "C:\Users\demo\UFT-Main\UFTAPITest\" -drv_log_file "C:\Users\demo\UFT-Main\UFTAPITest\mdrv.log" -cfg "C:\Users\demo\UFT-Main\UFTAPITest\default.cfg" -product_name vugen
